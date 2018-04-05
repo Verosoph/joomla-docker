@@ -1,0 +1,10 @@
+joomla:
+  image: joomla
+  links:
+    - db:mysql
+  ports:
+    - 80:80
+db:
+  image: mysql
+  environment:
+    MYSQL_ROOT_PASSWORD: example
