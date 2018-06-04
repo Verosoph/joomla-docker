@@ -1,7 +1,7 @@
 # joomla-docker
 a docker with joomla
 
-´´´
+```
 # Attention while installing joomla
 
 use the following information:
@@ -9,5 +9,4 @@ use the following information:
   Database Name: joomla &nbsp;
   Database Username: root &nbsp;
   Database Password: example
-  
-´´´
+```
